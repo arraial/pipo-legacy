@@ -44,7 +44,7 @@ dynaconf = { version = "~3.2.0", extras = ["yaml"] }
 discord-py = { version = "~2.4.0", extras = ["voice"] }
 httpx = { version = "0.27.2", optional = true }
 yt-dlp = { version = "^2024.10", optional = true }
-spotipy = { version = "~2.24.0", optional = true }
+spotipy = { version = "~2.25.0", optional = true }
 opentelemetry-sdk = { version = "~1.27.0", optional = true }
 opentelemetry-api = { version = "~1.27.0", optional = true }
 opentelemetry-exporter-jaeger = { version = "~1.21.0", optional = true }
