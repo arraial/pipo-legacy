@@ -36,7 +36,7 @@ classifiers = [
 python = "^3.11"
 uuid6 = "^2024.7"
 requests = "^2.32"
-pydantic = "~2.9.0"
+pydantic = "~2.10.6"
 expiringdict = "^1.2"
 fastapi = { version = "~0.115.2", extras = ["standard"] }
 faststream = { version = "0.5.27", extras = ["rabbit"] }
